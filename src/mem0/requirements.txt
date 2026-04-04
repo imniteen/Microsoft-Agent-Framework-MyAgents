@@ -1,0 +1,4 @@
+agent-framework==1.0.0
+mem0ai
+python-dotenv
+azure-identity
